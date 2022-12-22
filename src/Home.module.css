@@ -1,0 +1,52 @@
+.table {
+}
+
+.col {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1rem;
+  color: white;
+  margin: 1rem;
+  margin-bottom: 0;
+  text-align: center;
+  gap: 0.2rem;
+}
+
+.title {
+  background-color: #034f84;
+  padding: 1rem 0;
+  width: 30rem;
+}
+
+.rows {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.2rem;
+  margin-right: 2rem;
+}
+
+.data {
+  font-size: 0.8rem;
+  width: 30rem;
+  text-align: center;
+  background-color: #cfe0e8;
+  padding: 2rem 0;
+  margin: 0;
+}
+
+.btn {
+  display: inline-block;
+  width: 30rem;
+  background-color: #cfe0e8;
+  border: none;
+  cursor: pointer;
+}
+
+.form {
+  display: flex;
+  gap: 1rem;
+  background-color: #034f84;
+  color: white;
+  padding: 1rem;
+  margin: 2rem 2rem;
+}
